@@ -20,9 +20,8 @@ Sebuah landing page sederhana yang memungkinkan pengguna melakukan pemesanan dan
    ```bash
    git clone https://github.com/USERNAME/landingpage-wa-payment.git
    cd landingpage-wa-payment
-Edit nomor WhatsApp tujuan Buka file assets/js/wa-form.js, ganti bagian berikut:
+Edit nomor WhatsApp tujuan Buka pembayaran.html, ganti bagian berikut:
 
-index.html
 const nomorAdmin = "628123456789"; // ganti dengan nomor WA kamu
 Buka index.html di browser
 Isi form, klik tombol “Bayar”, dan kamu akan diarahkan ke WhatsApp Web/Apps.
@@ -32,24 +31,6 @@ Isi form, klik tombol “Bayar”, dan kamu akan diarahkan ke WhatsApp Web/Apps.
    -
 2. Halaman Pembayaran
    -
-
-
-## 📁 Struktur Folder
-landingpage-wa-payment/
-├── index.html               # Halaman utama
-├── assets/
-│   ├── css/style.css        # Styling halaman
-│   └── js/wa-form.js        # Logika pengiriman WhatsApp
-├── README.md                # Dokumentasi proyek
-└── .gitignore               # File/folder yang diabaikan Git
-## ✏️ Kustomisasi
-Tambahkan field form sesuai kebutuhan: email, alamat, catatan, dsb.
-
-Tambahkan validasi form dengan JavaScript jika diperlukan.
-
-Ubah desain dengan mengedit assets/css/style.css.
-
-Ganti gaya bahasa pesan WhatsApp agar sesuai dengan brand kamu.
 
 ## 📌 Catatan Teknis
 Format nomor WhatsApp harus internasional tanpa tanda “+” (misal: 6281234567890)
@@ -62,6 +43,5 @@ Tidak menyimpan data pengguna (client-side only)
 Proyek ini menggunakan lisensi MIT. Bebas digunakan dan dimodifikasi untuk keperluan pribadi maupun komersial.
 
 © 2025 [RifkiMuazin]
-
 
 ---
