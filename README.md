@@ -28,9 +28,9 @@ Isi form, klik tombol “Bayar”, dan kamu akan diarahkan ke WhatsApp Web/Apps.
 
 ## 🖼️ Demo
 1. Landing Page
-   -
+   - ![Checkout Page](images/Landing.jpg)
 2. Halaman Pembayaran
-   -
+   - ![Checkout Page](images/7.png)
 
 ## 📌 Catatan Teknis
 Format nomor WhatsApp harus internasional tanpa tanda “+” (misal: 6281234567890)
@@ -40,7 +40,7 @@ Menggunakan metode Click to Chat WhatsApp
 Tidak menyimpan data pengguna (client-side only)
 
 ## 📝 Lisensi
-Proyek ini menggunakan lisensi MIT. Bebas digunakan dan dimodifikasi untuk keperluan pribadi maupun komersial.
+Rewebid Jasa Pembuatan Website 
 
 © 2025 [RifkiMuazin]
 
