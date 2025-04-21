@@ -22,19 +22,17 @@ Sebuah landing page sederhana yang memungkinkan pengguna melakukan pemesanan dan
    cd landingpage-wa-payment
 Edit nomor WhatsApp tujuan Buka file assets/js/wa-form.js, ganti bagian berikut:
 
-js
-Copy
-Edit
-const phone = '6281234567890'; // ganti dengan nomor WA kamu
+index.html
+const nomorAdmin = "628123456789"; // ganti dengan nomor WA kamu
 Buka index.html di browser
-Isi form, klik tombol “Bayar via WhatsApp”, dan kamu akan diarahkan ke WhatsApp Web/Apps.
+Isi form, klik tombol “Bayar”, dan kamu akan diarahkan ke WhatsApp Web/Apps.
 
 ## 🖼️ Demo
-Klik gambar di bawah untuk melihat tampilan:
+1. Landing Page
+   -
+2. Halaman Pembayaran
+   -
 
-
-Atau coba langsung (jika aktif di GitHub Pages):
-👉 https://USERNAME.github.io/landingpage-wa-payment/
 
 ## 📁 Struktur Folder
 landingpage-wa-payment/
