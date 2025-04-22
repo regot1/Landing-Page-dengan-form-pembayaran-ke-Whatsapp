@@ -35,7 +35,7 @@ Isi form, klik tombol “Bayar”, dan kamu akan diarahkan ke WhatsApp Web/Apps.
 ## 📌 Catatan Teknis
 Format nomor WhatsApp harus internasional tanpa tanda “+” (misal: 6281234567890)
 
-Menggunakan metode Click to Chat WhatsApp
+Menggunakan metode Click to Chat WhatsApp dengan isian chat hasil input form pembelian 
 
 Tidak menyimpan data pengguna (client-side only)
 
